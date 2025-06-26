@@ -141,13 +141,6 @@ ninja.data = [{
           window.open("https://github.com/AJH4869", "_blank");
         },
       },{
-        id: 'social-gitlab',
-        title: 'GitLab',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://gitlab.com/艾佳皓", "_blank");
-        },
-      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
