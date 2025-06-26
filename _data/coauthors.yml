@@ -33,6 +33,6 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
   
-"Ren":
-  - firstname: ["Zhimei"]
+"ren":
+  - firstname: ["Zhimei","Z."]
     url: https://zhimeir.github.io
