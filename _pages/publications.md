@@ -11,10 +11,10 @@ nav_order: 2
 <div class="publications">
 
 <h3>Journal & Conference Papers</h3>
-{% bibliography  %}
+{% bibliography  --query '@*[key!=preprint]' %}
 
-<h3>Preprints<h3>
-{% bibliography   %}
+<h3>Preprints</h3>
+{% bibliography  --query '@*[key~=preprint]' %}
 
 </div>
 
