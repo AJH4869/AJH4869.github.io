@@ -28,11 +28,20 @@
       "institution": "Peking University, Beijing, China",
       "location": "Beijing, China",
       "url": "https://www.pku.edu.cn/",
-      "area": "Statistics",
+      "area": "Statistics (Major)",
       "studyType": "Bachelor",
       "startDate": "2021-09-01",
       "endDate": "2025-07-01",
-      "score": "10",
+      "courses": []
+    },
+    {
+      "institution": "Peking University, Beijing, China",
+      "location": "Beijing, China",
+      "url": "https://www.pku.edu.cn/",
+      "area": "Computer Science (Second Degree)",
+      "studyType": "Bachelor",
+      "startDate": "2022-09-01",
+      "endDate": "2025-07-01",
       "courses": []
     }
   ],
