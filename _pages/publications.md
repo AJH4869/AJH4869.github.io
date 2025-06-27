@@ -11,10 +11,10 @@ nav_order: 2
 <div class="publications">
 
 ### Journal & Conference Papers
-{% bibliography --query "not keyword:preprint" %}
+{% bibliography --query "@*[keywords!=preprint]" %}
 
 ### Preprints
-{% bibliography --query "keyword:preprint" %}
+{% bibliography --query "@*[keywords~=preprint]" %}
 
 </div>
 
