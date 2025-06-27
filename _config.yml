@@ -115,6 +115,7 @@ collections:
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
+rouge_theme: monokai.sublime
 kramdown:
   input: GFM
   syntax_highlighter_opts:
