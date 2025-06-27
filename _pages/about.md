@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   <a href="https://www.math.pku.edu.cn" target="_blank" rel="noopener">School of Mathematical Sciences, Peking University</a> ·
