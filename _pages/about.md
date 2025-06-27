@@ -3,18 +3,16 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="#affiliations">School of Mathematical Sciences, Peking University</a> ·
-  Incoming Ph.D. @ UPenn Wharton Statistics (2025) ·
-  <a href="mailto:jiahaoai@wharton.upenn.edu">jiahaoai@wharton.upenn.edu</a> ·
-  <a href="https://github.com/AJH4869" target="_blank" rel="noopener">GitHub</a>
+  <a href="https://www.math.pku.edu.cn" target="_blank" rel="noopener">School of Mathematical Sciences, Peking University</a> ·
+  Incoming Ph.D. @ UPenn Wharton Statistics (2025)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>3935 Walnut St</p>
-    <p>Philadelphia, PA 19104</p>
+    <p></p>
+    <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
