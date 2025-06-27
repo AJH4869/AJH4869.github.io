@@ -30,6 +30,8 @@ announcements:
 
 Hi! I’m Jiahao Ai, an undergraduate in Statistics at Peking University with a second major in Computer Science. I will join the Ph.D. program in Statistics and Data Science at the Wharton School, University of Pennsylvania in Fall 2025.
 
-I have been fortunate to receive guidance from Prof. Zhimei Ren, Prof. Yuxin Chen, and Prof. Ruixun Zhang during my undergraduate years.Their mentorship has shaped my thinking and nurtured my passion for research.
+I have been fortunate to receive guidance from [**Prof. Zhimei Ren**](https://zhimeir.github.io),
+[**Prof. Yuxin Chen**](https://yuxinchen2020.github.io),
+and [**Prof. Ruixun Zhang**](https://www.math.pku.edu.cn/teachers/ZhangRuixun) during my undergraduate years.Their mentorship has shaped my thinking and nurtured my passion for research.
 
 My research interests lie at the intersection of uncertainty quantification, robust statistical inference, optimization & online learning, and reinforcement learning.
